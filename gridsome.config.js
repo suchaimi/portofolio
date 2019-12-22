@@ -18,18 +18,18 @@ module.exports = {
   siteDescription: 'A simple portfolio theme for Gridsome powered by Tailwind CSS v1',
   siteUrl: 'https://gridsome-portfolio-starter.netlify.com',
   plugins: [
-    {
-      use: '@gridsome/vue-remark',
-      options: {
-        typeName: 'Documentation', // Required
-        baseDir: './docs', // Where .md files are located
-        pathPrefix: '/docs', // Add route prefix. Optional
-        template: './src/templates/Documentation.vue', // Optional
-        plugins: [
-          [ 'gridsome-plugin-remark-shiki', { theme: 'Material-Theme-Palenight', skipInline: true } ]
-      ],
-      }
-    },
+    // {
+    //   use: '@gridsome/vue-remark',
+    //   options: {
+    //     typeName: 'Documentation', // Required
+    //     baseDir: './docs', // Where .md files are located
+    //     pathPrefix: '/docs', // Add route prefix. Optional
+    //     template: './src/templates/Documentation.vue', // Optional
+    //     plugins: [
+    //       [ 'gridsome-plugin-remark-shiki', { theme: 'Material-Theme-Palenight', skipInline: true } ]
+    //   ],
+    //   }
+    // },
     {
       use: '@gridsome/source-filesystem',
       options: {
@@ -78,7 +78,7 @@ module.exports = {
   transformers: {
     remark: {
       plugins: [
-        [ 'gridsome-plugin-remark-shiki', { theme: 'Material-Theme-Palenight', skipInline: true } ]
+        [ 'gridsome-plugin-remark-shiki', { theme: 'nord', skipInline: true } ]
       ],
       externalLinksTarget: '_blank',
       externalLinksRel: ['nofollow', 'noopener', 'noreferrer'],

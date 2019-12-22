@@ -5,9 +5,9 @@
 @tailwind utilities;
 
 .theme-light {
-  --bg-background-primary: white;
-  --bg-background-secondary: #f7fafc;
-  --bg-background-tertiary: #e2e8f0;
+  --bg-background-primary: #FFFFFF;
+  --bg-background-secondary: #E5E9F0;
+  --bg-background-tertiary: #D8DEE9;
 
   --bg-background-form: white;
 

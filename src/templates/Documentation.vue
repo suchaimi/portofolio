@@ -24,9 +24,9 @@ export default {
   metaInfo() {
     return {
       title: this.$page.documentation.title
-    }
+    };
   }
-}
+};
 </script>
 
 <style src="../css/github-markdown.css" />
