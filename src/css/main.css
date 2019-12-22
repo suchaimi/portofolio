@@ -9,45 +9,45 @@
   --bg-background-secondary: #E5E9F0;
   --bg-background-tertiary: #D8DEE9;
 
-  --bg-background-form: white;
+  --bg-background-form: #FFFFFF;
 
-  --text-copy-primary: #2d3748;
-  --text-copy-secondary: #4a5568;
+  --text-copy-primary: #2E3440;
+  --text-copy-secondary: #3B4252;
 
-  --border-border-color-primary: white;
+  --border-border-color-primary: #FFFFFF;
 }
 
 .theme-light .search-highlighted {
-  background: #f0fff4;
+  background: #FFFFFF;
 }
 
 .theme-light .search-hover:hover {
-  background: #f0fff4;
+  background: #FFFFFF;
 }
 
 .theme-dark .markdown-body {
-    color: #24292e;
+    color: #2E3440;
 }
 
 .theme-dark .search-highlighted {
-  background: #2d3748;
+  background: #2E3440;
 }
 
 .theme-dark .search-hover:hover {
-  background: #2d3748;
+  background: #2E3440;
 }
 
 .theme-dark {
-  --bg-background-primary: #0D2438;
-  --bg-background-secondary: #102C44;
-  --bg-background-tertiary: #1E3951;
+  --bg-background-primary: #2E3440;
+  --bg-background-secondary: #2E3440;
+  --bg-background-tertiary: #2E3440;
 
-  --bg-background-form: #1a202c;
+  --bg-background-form: #2E3440;
 
   --text-copy-primary: #cbd5e0;
   --text-copy-secondary: #e2e8f0;
 
-  --border-border-color-primary:  #1a202c;
+  --border-border-color-primary:  #2E3440;
 }
 
 .theme-dark .markdown-body {
