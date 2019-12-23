@@ -114,3 +114,36 @@ nav .active {
   height: 100%;
   border: 0;
 }
+
+.laHIGl {
+    display: block;
+    bottom: -1px;
+    left: 0px;
+    right: 0px;
+    width: 100%;
+    background-color: 
+    transparent;
+    pointer-events: none;
+    user-select: none;
+    vertical-align: middle;
+    overflow: hidden;
+}
+
+.cijXdC {
+    transition: fill 400ms ease-in-out 0s;
+    fill: 
+    rgb(55, 61, 76);
+}
+
+.hRcAMi {
+    transition: fill 400ms ease-in-out 0s;
+    fill: 
+    rgb(57, 64, 79);
+}
+
+.bopVfe {
+    transition: fill 400ms ease-in-out 0s;
+    fill: 
+    rgb(59, 66, 82);
+}
+
