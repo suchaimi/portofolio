@@ -147,3 +147,117 @@ nav .active {
     rgb(59, 66, 82);
 }
 
+/* Untuk hero section halaman utama */
+.gQLtuu {
+    fill: 
+    rgb(41, 46, 57);
+    transition: fill 400ms ease-in-out 0s;
+}
+
+.gqbfyO {
+    display: unset;
+}
+.gqbfyO {
+    pointer-events: none;
+    position: absolute;
+    inset: 0px;
+    display: none;
+}
+
+/* section 2 */
+.csjXWx {
+    background-color: 
+    rgb(41, 46, 57);
+    transition: background-color 400ms ease-in-out 0s;
+    position: relative;
+}
+
+.bJfuyp {
+    width: 5.5em;
+    top: -4%;
+    right: unset;
+    left: 42%;
+}
+.bJfuyp {
+    width: 5em;
+    top: -3%;
+}
+.bJfuyp {
+    width: 4.5em;
+}
+.bJfuyp {
+    width: 4em;
+}
+.bJfuyp {
+    position: absolute;
+    z-index: 0;
+    transition: fill 400ms ease-in-out 0s;
+    fill: 
+    rgb(59, 66, 82);
+    width: 3em;
+    right: 6%;
+    top: -1%;
+}
+
+.bKbVVp {
+    width: 6em;
+    top: 11%;
+    left: 6%;
+}
+.bKbVVp {
+    width: 5.5em;
+    top: 8%;
+    left: 4%;
+}
+.bKbVVp {
+    width: 4.5em;
+}
+.bKbVVp {
+    width: 3.5em;
+}
+.bKbVVp {
+    position: absolute;
+    z-index: 0;
+    transition: fill 400ms ease-in-out 0s;
+    fill: 
+    rgb(59, 66, 82);
+    width: 3em;
+    top: 2%;
+    left: 2%;
+}
+
+.cBTJLm {
+    width: 5em;
+    bottom: 30%;
+    left: 34%;
+}
+.cBTJLm {
+    width: 4.5em;
+    right: unset;
+    left: 28%;
+    bottom: 25%;
+}
+.cBTJLm {
+    width: 4em;
+}
+.cBTJLm {
+    width: 3em;
+    bottom: 10%;
+    right: 10%;
+}
+.cBTJLm {
+    position: absolute;
+    z-index: 0;
+    transition: fill 400ms ease-in-out 0s;
+    fill: 
+    rgb(59, 66, 82);
+    width: 2.5em;
+    bottom: 6%;
+    right: 6%;
+}
+
+.ivkvrv {
+    fill: 
+    rgb(46, 52, 64);
+    transition: fill 400ms ease-in-out 0s;
+}
